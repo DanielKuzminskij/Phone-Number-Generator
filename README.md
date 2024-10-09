@@ -27,6 +27,7 @@ pip install tqdm
 ```bash
 git clone https://github.com/your-username/phone-number-generator.git
 cd phone-number-generator
+```
 
 ### Run the script:
 
